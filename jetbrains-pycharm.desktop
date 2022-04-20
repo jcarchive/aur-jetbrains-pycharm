@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Version=2022.1
+
+Name=Pycharm
+GenericName=Python IDE 
+
+Icon=/usr/share/jetbrains-pycharm/bin/pycharm.png
+Comment=IDE for python development
+Keywords=development;python;ide;
+Categories=Development;IDE;
+
+Terminal=false
+StartupNotify=true
+StartupWMClass=jetbrains-pycharm
+X-MultipleArgs=false
+Exec=/usr/share/jetbrains-pycharm/bin/pycharm.sh
+
