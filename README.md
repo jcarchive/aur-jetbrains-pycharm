@@ -3,6 +3,7 @@ This repo contains an Arch User Repository package for Jetbrains Pycharm followi
 
 1. App files directory: `/usr/share/jetbrains-pycharm`
 2. Executable `pycharm` directory: `/usr/bin/pycharm`
+3. .desktop file directory: `/usr/share/applications`
 
 * The executable in `/usr/bin` is installed as symbolic link to the `pycharm` bin inside the app files.
 
